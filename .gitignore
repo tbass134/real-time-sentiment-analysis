@@ -1,0 +1,9 @@
+.env
+private.key
+_install.txt
+_heroku-install.txt
+_install-requests-for-webhook.txt 
+heroku.txt
+
+notebooks/amazon_reviews_us_Camera_v1_00.tsv
+notebooks/amazon_reviews_us_Camera_v1_00.tsv.gz
